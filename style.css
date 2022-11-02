@@ -1,0 +1,123 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
+    font-family: verdana,sans-serif;
+}
+h1{
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem; 
+    color: #66BFBF; 
+    
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3{
+    color: #11999E;
+}
+
+a{
+    color: #11999E;
+}
+
+button{
+        background-color: #b6f5ec;
+        border: 0px;
+        font-family: 'Montserrat', sans-serif;
+        padding: 15px;
+        border-radius: 8px;
+        
+        
+}
+button:hover{
+    background-color: #22909e;
+    color: rgb(199, 244, 248);
+
+
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.top-div {
+    position: relative;
+    
+    background-color: #EAF6F6;
+    padding-top: 100px;
+}
+
+.bottom-div{
+    background-color: #66BFBF;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+    }
+
+.bottum-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    
+}
+
+.profile-pic{
+    border-radius: 50%;
+}
+
+.skill-first{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+
+}
+.skill-second{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.footerlink{
+    text-decoration: #11999E;
+}
+
+.footerlink:hover{
+    color: white;
+   
+}
+
+.name{
+    color: #bdffff;
+}
+
+.dotted-line{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 50px;
+    margin-top: 20px;
+    color: gray;
+
+    
+}
